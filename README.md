@@ -1,2 +1,2 @@
 # Compiler
-Contain codes that were completed due to compile course.
+Contain codes that were completed in compiler course.
