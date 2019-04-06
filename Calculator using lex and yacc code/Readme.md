@@ -7,7 +7,11 @@ lexical analyzer in calc.l ﬁle, grammar rules for parser in a calc.y ﬁle.
 To run the command use the following commands in ubuntu terminal.
 
 ﬂex calc.l 
+
 yacc -d calc.y 
+
 g++ -c -w lex.yy.c y.tab.c 
+
 g++ -o mycalc y.tab.o lex.yy.o 
+
 ./mycalc <in.txt>out.txt
