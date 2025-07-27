@@ -4,8 +4,7 @@ This repository contains implementations of fundamental compiler components incl
 
 ## 📋 Table of Contents
 
-- [Projects Overview](#projects-overview)
-- [Calculator using Lex and Yacc](#calculator-using-lex-and-yacc)
+- [Calculator using Lex and Yacc](#Calculator using lex and yacc code)
 - [Lexical Analyzer for Pascal Subset](#lexical-analyzer-for-pascal-subset)
 - [Symbol Table Implementation](#symbol-table-implementation)
 - [Prerequisites](#prerequisites)
