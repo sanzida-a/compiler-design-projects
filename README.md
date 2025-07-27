@@ -2,14 +2,6 @@
 
 This repository contains implementations of fundamental compiler components including lexical analyzers, parsers, and symbol table management. The projects demonstrate various aspects of compiler design using Lex/Yacc and C/C++.
 
-## 📋 Table of Contents
-
-- [Calculator using Lex and Yacc](#Calculator using lex and yacc code)
-- [Lexical Analyzer for Pascal Subset](#lexical-analyzer-for-pascal-subset)
-- [Symbol Table Implementation](#symbol-table-implementation)
-- [Prerequisites](#prerequisites)
-- [General Setup](#general-setup)
-- [Contributing](#contributing)
 
 ## 🎯 Projects Overview
 
